@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alves Company Brasil - Negociações de TDA e Precatórios Federais</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #007bff;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #333;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+        }
+        section {
+            padding: 40px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+        .contact-info {
+            background-color: #e9ecef;
+            padding: 20px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Alves Company Brasil</h1>
+        <p>Especialistas em negociações de TDA e precatórios federais</p>
+    </header>
+    
+    <nav>
+        <a href="#inicio">Início</a>
+        <a href="#sobre">Sobre</a>
+        <a href="#servicos">Serviços</a>
+        <a href="#contato">Contato</a>
+    </nav>
+    
+    <section id="inicio">
+        <h2>Início</h2>
+        <p>Bem-vindo à Alves Company Brasil! Somos líderes em negociações eficientes de TDA e precatórios federais, ajudando empresas e indivíduos a otimizar seus ativos financeiros.</p>
+    </section>
+    
+    <section id="sobre">
+        <h2>Sobre Nós</h2>
+        <p>Fundada por Kauan Alves, CEO da Alves Company Brasil, nossa empresa tem como missão oferecer soluções inovadoras no mercado de negociações judiciais. Com CNPJ 58.083.843/0001-89, atuamos com transparência e expertise.</p>
+    </section>
+    
+    <section id="servicos">
+        <h2>Serviços</h2>
+        <ul>
+            <li>Negociações de TDA (Títulos de Dívida Agrária ou equivalentes)</li>
+            <li>Compra e venda de precatórios federais</li>
+            <li>Consultoria financeira para otimização de ativos</li>
+            <li>Acompanhamento jurídico e administrativo</li>
+        </ul>
+    </section>
+    
+    <section id="contato">
+        <h2>Contato</h2>
+        <div class="contact-info">
+            <p><strong>Telefone:</strong> (47) 99910-4119</p>
+            <p><strong>Email:</strong> Alvescompanybrasil@gmail.com</p>
+            <p><strong>CEO:</strong> Kauan Alves</p>
+            <p><strong>CNPJ:</strong> 58.083.843/0001-89</p>
+        </div>
+    </section>
+    
+    <footer>
+        <p>&copy; 2023 Alves Company Brasil. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
